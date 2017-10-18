@@ -6,10 +6,6 @@ This repository tracks releases of the SAFT forms, part of the [SAFT Project](ht
 
 Contributions welcome. To contribute, please email the SAFT project at: [saft-project@protocol.ai](mailto:saft-project@protocol.ai).
 
-## Disclaimer
-
-Consult your own counsel before using these documents. Use any of these documents at your own risk. This repository and its documents do not constitute legal advice, and should not be relied on by any person. Developers, purchasers, investors and any other participant in a token system should consult their own counsel.
-
 ## Fork
 
 Variable names are delimited with curly braces. They are as follows:
@@ -43,3 +39,7 @@ Variable names are delimited with curly braces. They are as follows:
 {THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT} the form uses {Ether}
 
 {across/on} {exchange(s)/index(es)} used to value exchange rate for sale in other currencies
+
+## Disclaimer
+
+Consult your own counsel before using these documents. Use any of these documents at your own risk. This repository and its documents do not constitute legal advice, and should not be relied on by any person. Developers, purchasers, investors and any other participant in a token system should consult their own counsel.
