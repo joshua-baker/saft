@@ -62,7 +62,7 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 (d)  No consents or approvals are required in connection with the performance of this instrument, other than: (i) the Company’s corporate approvals; and (ii) any qualifications or filings under applicable securities laws.
 
-(e)  To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information, processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be conducted, without an infringement of the rights of others.  {Token name} is not a proprietary trade name of the Company.
+(e)  To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information, processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be conducted, without an infringement of the rights of others.  {Token Name} is not a proprietary trade name of the Company.
 
 #### 4   Purchaser Representations
 
