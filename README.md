@@ -14,32 +14,32 @@ Consult your own counsel before using these documents. Use any of these document
 
 Variable names are delimited with curly braces. They are as follows:
 
-[International legends for countries other than USA, Canada, China, or UK]
+{International legends for countries other than USA, Canada, China, or UK}
 
-[TOKEN NAME]
+{TOKEN NAME} the SAFT form specifies that {Company Name} does not own the trademark to {Token Name}
 
-[COMPANY NAME]
+{COMPANY NAME}
 
-[PURCHASE AMOUNT]
+{PURCHASE AMOUNT}
 
-[DATE OF TOKEN SALE]
+{DATE OF TOKEN SALE}
 
-[YEAR OF TOKEN SALE]
+{YEAR OF TOKEN SALE}
 
-[MINIMUM TOKEN SALE AMOUNT IN DOLLARS]
+{MINIMUM TOKEN SALE AMOUNT IN DOLLARS}
 
-[DEADLINE DATE]
+{DEADLINE DATE}
 
-[MINIMUM DOLLARS OF TOKEN SALE]
+{MINIMUM DOLLARS OF TOKEN SALE}
 
-[State of Incorporation]
+{State of Incorporation}
 
-[DISCOUNT RATE]
+{DISCOUNT RATE}
 
-[describe the end goal, function and utility of the proposed Network]
+{describe the end goal, function and utility of the proposed Network}
 
-[THE MEDIUM OF EXCHANGE USED BY THE PURCHASER] the form uses [U.S. Dollars/Bitcoin/Ether]
+{THE MEDIUM OF EXCHANGE USED BY THE PURCHASER} the form uses {U.S. Dollars/Bitcoin/Ether}
 
-[THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT] the form uses [Ether]
+{THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT} the form uses {Ether}
 
-[across/on] [exchange(s)/index(es)] used to value exchange rate for sale in other currencies
+{across/on} {exchange(s)/index(es)} used to value exchange rate for sale in other currencies
