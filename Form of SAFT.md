@@ -2,7 +2,7 @@
 
 THE OFFER AND SALE OF THIS SECURITY INSTRUMENT HAS NOT BEEN REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THIS SECURITY MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.
 
-**[International legends to be updated as appropriate for the offering]**
+**{International legends to be updated as appropriate for the offering}**
 
 ###### NOTICE TO RESIDENTS of Canada
 
@@ -18,12 +18,12 @@ In the United Kingdom this document is being distributed only to, and is directe
 
 This document has not been approved by an authorised person. Any investment to which this document relates is available only to (and any investment activity to which it relates will be engaged only with) Relevant Persons. This document is directed only at Relevant Persons and persons who are not Relevant Persons should not take any action based upon this document and should not rely on it. It is a condition of you receiving and retaining this document that you warrant to the Company, its directors, and its officers that you are a Relevant Person.
 
-**[TOKEN NAME]**, a product of **[COMPANY NAME]**
+**{TOKEN NAME}**, a product of **{COMPANY NAME}**
 
 ## SAFT
 ### (Simple Agreement for Future Tokens)
 
-THIS CERTIFIES THAT in exchange for the payment by the undersigned purchaser (the *“Purchaser”*) of $[__________] (the *“Purchase Amount”*) on or about [DATE], 2017, [Company Name], a [State of Incorporation] corporation (the *“Company”*), hereby issues to the Purchaser the right (the *“Right”*) to certain units of [Token Name] (the *“Token”* or *“[Token Name]”*), subject to the terms set forth below.
+THIS CERTIFIES THAT in exchange for the payment by the undersigned purchaser (the *“Purchaser”*) of ${PURCHASE AMOUNT} (the *“Purchase Amount”*) on or about {DATE OF TOKEN SALE}, {YEAR OF TOKEN SALE}, {Company Name}, a {State of Incorporation} corporation (the *“Company”*), hereby issues to the Purchaser the right (the *“Right”*) to certain units of {Token Name} (the *“Token”* or *“{Token Name}”*), subject to the terms set forth below.
 
 #### 1   Events
 
@@ -37,24 +37,24 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 (b)  **Dissolution Event**. If there is a Dissolution Event before this instrument expires or terminates, the Company will pay an amount equal to the Purchase Amount multiplied by the Discount Rate (the *“Discounted Purchase Amount”*), due and payable to the Purchaser immediately prior to, or concurrent with, the consummation of the Dissolution Event[, subject to the rights and preferences of the holders of the Company’s preferred stock, as set forth in the Company’s Certificate of Incorporation, as it may be amended from time to time.] If immediately prior to the consummation of the Dissolution Event, the assets of the Company that remain legally available for distribution to the Purchaser and all holders of all other SAFTs (the *“Dissolving Purchasers”*), as determined in good faith by the Company’s board of directors, are insufficient to permit the payment to the Dissolving Purchasers of their respective Discounted Purchase Amounts, then the remaining assets of the Company legally available for distribution, following all distributions to the holders of the Company’s preferred stock, will be distributed with equal priority and pro rata among the Dissolving Purchasers in proportion to the Discounted Purchase Amounts they would otherwise be entitled to receive pursuant to this Section 1(b).  Any distributed amounts shall be in U.S. Dollars.
 
-(c)  **Termination**.  This instrument will expire and terminate upon the earlier of (i) the issuance of Tokens to the Purchaser pursuant to Section 1(a); (ii) the payment, or setting aside for payment, of amounts due the Purchaser pursuant to Section 1(b); (iii) [DATE] (the *“Deadline Date”*), if the Network Launch has not occurred as of such date; provided that, the Company shall have the right to extend the Deadline Date by sixty (60) days, in its sole discretion[; and (iv) the failure to obtain net proceeds of more than $[_______] from the sale of all rights pursuant to the SAFTs; provided, that in the case of (iv), the Company shall have the obligation to repay to the Purchasers the aggregate amount of all Purchase Amounts.]
+(c)  **Termination**.  This instrument will expire and terminate upon the earlier of (i) the issuance of Tokens to the Purchaser pursuant to Section 1(a); (ii) the payment, or setting aside for payment, of amounts due the Purchaser pursuant to Section 1(b); (iii) {DEADLINE DATE} (the *“Deadline Date”*), if the Network Launch has not occurred as of such date; provided that, the Company shall have the right to extend the Deadline Date by sixty (60) days, in its sole discretion[; and (iv) the failure to obtain net proceeds of more than ${MINIMUM DOLLARS OF TOKEN SALE} from the sale of all rights pursuant to the SAFTs; provided, that in the case of (iv), the Company shall have the obligation to repay to the Purchasers the aggregate amount of all Purchase Amounts.]
 
 #### 2   Definitions
 
 *“Discount Price”* means the maximum price per Token sold by the Company to the public during the Network Launch multiplied by the Discount Rate.
 
-*“Discount Rate”* is [ ____ %].
+*“Discount Rate”* is {DISCOUNT RATE}%.
 
 *“Dissolution Event”* means (i) a voluntary termination of operations of the Company, (ii) a general assignment for the benefit of the Company’s creditors or (iii) any other liquidation, dissolution or winding up of the Company, whether voluntary or involuntary.  
 
 *“Network Launch”* means [a bona fide transaction or series of transactions, pursuant to which the Company will sell the Tokens to the general public in a publicized product launch.]
 
-*“SAFT”* means an agreement containing a future right to units of Tokens purchased by Purchasers, similar in form and content to this agreement, which a significant portion of the amount raised under the SAFTs will be used to fund the Company’s development of a decentralized blockchain-based computer network (the “[Network]”) that enables [describe the end goal, function and utility of the proposed Network].  
+*“SAFT”* means an agreement containing a future right to units of Tokens purchased by Purchasers, similar in form and content to this agreement, which a significant portion of the amount raised under the SAFTs will be used to fund the Company’s development of a decentralized blockchain-based computer network (the “{PROJECT NAME} Network”) that enables {describe the end goal, function and utility of the proposed Network}.  
 
 
 #### 3  Company Representations
 
-(a)  The Company is a corporation duly organized, validly existing and in good standing under the laws of [STATE], and has the power and authority to own, lease and operate its properties and carry on its business as now conducted.
+(a)  The Company is a corporation duly organized, validly existing and in good standing under the laws of {State of Incorporation}, and has the power and authority to own, lease and operate its properties and carry on its business as now conducted.
 
 (b)  The execution, delivery and performance by the Company of this instrument is within the power of the Company and, other than with respect to the actions to be taken when Tokens are to be issued to the Purchaser, has been duly authorized by all necessary actions on the part of the Company. This instrument constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.  To the knowledge of the Company, it is not in violation of (i) its current articles of incorporation or bylaws, (ii) any material statute, rule or regulation applicable to the Company, or (iii) any material indenture or contract to which the Company is a party or by which it is bound, where, in each case, such violation or default, individually, or together with all such violations or defaults, could reasonably be expected to have a material adverse effect on the Company.
 
@@ -62,7 +62,7 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 (d)  No consents or approvals are required in connection with the performance of this instrument, other than: (i) the Company’s corporate approvals; and (ii) any qualifications or filings under applicable securities laws.
 
-(e)  To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information, processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be conducted, without an infringement of the rights of others.  [Token name] is not a proprietary trade name of the Company.
+(e)  To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms) sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information, processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be conducted, without an infringement of the rights of others.  {Token name} is not a proprietary trade name of the Company.
 
 #### 4   Purchaser Representations
 
@@ -70,13 +70,13 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 (b)  The Purchaser has been advised that this instrument is a security and that the offers and sales of this instrument have not been registered under any country’s securities laws and, therefore, cannot be resold except in compliance with the applicable country’s laws.  The Purchaser is purchasing this instrument for its own account for investment, not as a nominee or agent, and not with a view to, or for resale in connection with, the distribution thereof, and the Purchaser has no present intention of selling, granting any participation in, or otherwise distributing the same. The Purchaser has such knowledge and experience in financial and business matters that the Purchaser is capable of evaluating the merits and risks of such investment, is able to incur a complete loss of such investment without impairing the Purchaser’s financial condition and is able to bear the economic risk of such investment for an indefinite period of time.
 
-(c)  The Purchaser enters into this SAFT with the predominant expectation that he, she or it, as the case may be, will profit upon the successful development and Network Launch arising from the efforts of the Company and its employees to develop and market the [Network] and the [Network Launch] and related sale of the Tokens.
+(c)  The Purchaser enters into this SAFT with the predominant expectation that he, she or it, as the case may be, will profit upon the successful development and Network Launch arising from the efforts of the Company and its employees to develop and market the {Network Name} Network and the Network Launch and related sale of the Tokens.
 
 #### 5   Procedures for Purchase of Rights and Valuation of Purchase Amount.
 
-(a)   The Company will accept payment for the Right purchased under this SAFT in [U.S. Dollars/Bitcoin/Ether].  Purchaser shall make the required payment to the Company in consideration for Purchaser’s purchase of the Right pursuant to the SAFT through the procedures set forth on **Exhibit A** hereof.
+(a)   The Company will accept payment for the Right purchased under this SAFT in {THE MEDIUM OF EXCHANGE USED BY THE PURCHASER}.  Purchaser shall make the required payment to the Company in consideration for Purchaser’s purchase of the Right pursuant to the SAFT through the procedures set forth on **Exhibit A** hereof.
 
-(b)   For purposes of this instrument, the value of the Purchase Amount shall be deemed in [Ether] whether the Purchaser pays in [U.S. Dollars/Bitcoin/[or] Ether], valued at the Applicable Exchange Rate for [Ether]. The term *“Applicable Exchange Rate”* shall mean the volume-weighted average daily price of [Ether] [across/on] [exchange(s)/index(es)] in the 24-hour period (Eastern Time) following the day and time that the Company notifies the Purchaser, in writing, that the Company has accepted Purchaser’s offer to purchase the Right under this SAFT.
+(b)   For purposes of this instrument, the value of the Purchase Amount shall be deemed in {THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT} whether the Purchaser pays in {THE MEDIUM OF EXCHANGE USED BY THE PURCHASER}, valued at the Applicable Exchange Rate for {THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT}. The term *“Applicable Exchange Rate”* shall mean the volume-weighted average daily price of {THE UNIT OF ACCOUNT FOR THE VALUE OF THE PURCHASE AMOUNT FOR PURPOSES OF THE INSTRUMENT} {across/on} {exchange(s)/index(es)} in the 24-hour period (Eastern Time) following the day and time that the Company notifies the Purchaser, in writing, that the Company has accepted Purchaser’s offer to purchase the Right under this SAFT.
 
 #### 6   Miscellaneous
 
@@ -90,7 +90,7 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 (e)  In the event any one or more of the provisions of this instrument is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this instrument operate or would prospectively operate to invalidate this instrument, then and in any such event, such provision(s) only will be deemed null and void and will not affect any other provision of this instrument and the remaining provisions of this instrument will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
-(f)  All rights and obligations hereunder will be governed by the laws of [_____], without regard to the conflicts of law provisions of such jurisdiction.
+(f)  All rights and obligations hereunder will be governed by the laws of {State of Incorporation}, without regard to the conflicts of law provisions of such jurisdiction.
 
 (Signature page follows)
 
@@ -99,7 +99,7 @@ In connection with and prior to the issuance of Tokens by the Company to the Pur
 
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.
 
-**[Company]**
+**{Company Name}**
 
 By:                                                   	     	
 Name:
